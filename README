@@ -1,0 +1,4 @@
+1. python3 -m venv venv
+2. sudo venv/bin/pip install -r requirements.txt
+3. vim /etc/rc.local
+4. add:  sudo xxxx/venv/bin/python xxxx/oled.py
